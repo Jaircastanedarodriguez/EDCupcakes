@@ -1,0 +1,113 @@
+{
+    "cupcakes": [
+        {
+            "id": 1,
+            "Sabor": "Vainilla",
+            "Color": "Amarillo",
+            "Descripcion": "Gran cupcake sabor vainilla clásica",
+            "Precio": 10,
+            "Imagen": "https://osojimix.com/wp-content/uploads/2021/04/CUPCAKES-DE-VAINILLA-Y-FROSTING-DE-QUESO-CREMA-500x500.jpg" 
+        },
+        {
+            "id": 2,
+            "Sabor": "Chocolate",
+            "Color": "Marrón",
+            "Descripcion": "Gran cupcake sabor Chocolate clásica",
+            "Precio": 15,
+            "Imagen": "https://horneandolasnubes.com/wp-content/uploads/2018/02/cupcakesChocoFresa1-500x500.jpg" 
+        },
+        {
+            "id": 3,
+            "Sabor": "Fresa",
+            "Color": "Rojo",
+            "Descripcion": "Gran cupcake sabor fresa clásica",
+            "Precio": 20,
+            "Imagen": "http://3.bp.blogspot.com/-bbH8H5KNaX4/T0SyTfltlpI/AAAAAAAAuUo/XxPvk-oTJcY/s1600/IMG_2453.jpg" 
+        },
+        {
+            "id": 4,
+            "Sabor": "Fresa",
+            "Color": "Rojo",
+            "Descripcion": "Gran cupcake sabor fresa clásica",
+            "Precio": 20,
+            "Imagen": "https://content-cocina.lecturas.com/medio/2021/12/15/paso_a_paso_para_hacer_cupcakes_feliz_ano_nuevo_resultado_final_c7d807d3_1200x1200.jpg" 
+        },
+        {
+            "id": 5,
+            "Sabor": "Fresa",
+            "Color": "Rojo",
+            "Descripcion": "Gran cupcake sabor fresa clásica",
+            "Precio": 20,
+            "Imagen": "https://madamecupcakessbogota.com/assets/img/cupCakes/inicio/loop/loop1.jpg" 
+        },
+        {
+            "id": 6,
+            "Sabor": "Fresa",
+            "Color": "Rojo",
+            "Descripcion": "Gran cupcake sabor fresa clásica",
+            "Precio": 20,
+            "Imagen": "http://hazgrandestuscomidas.com/blog/wp-content/uploads/2016/07/como-hacer-cupcakes.jpg" 
+        },
+        {
+            "id": 7,
+            "Sabor": "Fresa",
+            "Color": "Rojo",
+            "Descripcion": "Gran cupcake sabor fresa clásica",
+            "Precio": 20,
+            "Imagen": "https://content-cocina.lecturas.com/medio/2018/11/23/cupcakes_con_cafe_y_merengue_7dfdb8d0_800x800.jpg" 
+        },
+        {
+            "id": 8,
+            "Sabor": "Fresa",
+            "Color": "Rojo",
+            "Descripcion": "Gran cupcake sabor fresa clásica",
+            "Precio": 20,
+            "Imagen": "https://www.rebanando.com/media/cupp_crop.jpg/rh/cupcakes-de-chocolate-y-fresa.jpg" 
+        },
+        {
+            "id": 9,
+            "Sabor": "Fresa",
+            "Color": "Rojo",
+            "Descripcion": "Gran cupcake sabor fresa clásica",
+            "Precio": 20,
+            "Imagen": "https://juegoscocinarpasteleria.org/wp-content/uploads/2019/04/1554504344_Panquecillos-de-fresa-cubiertos-de-chocolate.jpg" 
+        },
+        {
+            "id": 10,
+            "Sabor": "Vainilla",
+            "Color": "Amarillo",
+            "Descripcion": "Gran cupcake sabor vainilla clásica",
+            "Precio": 10,
+            "Imagen": "https://osojimix.com/wp-content/uploads/2021/04/CUPCAKES-DE-VAINILLA-Y-FROSTING-DE-QUESO-CREMA-500x500.jpg" 
+        },
+        {
+            "id": 11,
+            "Sabor": "Chocolate",
+            "Color": "Marrón",
+            "Descripcion": "Gran cupcake sabor Chocolate clásica",
+            "Precio": 15,
+            "Imagen": "https://horneandolasnubes.com/wp-content/uploads/2018/02/cupcakesChocoFresa1-500x500.jpg" 
+        },
+        {
+            "id": 12,
+            "Sabor": "Fresa",
+            "Color": "Rojo",
+            "Descripcion": "Gran cupcake sabor fresa clásica",
+            "Precio": 20,
+            "Imagen": "http://3.bp.blogspot.com/-bbH8H5KNaX4/T0SyTfltlpI/AAAAAAAAuUo/XxPvk-oTJcY/s1600/IMG_2453.jpg" 
+        }
+
+    ],
+    "servicios": [
+        {
+            "id": 1,
+            "nombre": "Curso de repostería",
+            "descripcion": "Este es un curso desde cero que te enseñará a hacer cupcakes"
+        },
+        {
+            "id": 2,
+            "nombre": "Delivery a toda la ciudad",
+            "descripcion": "Pide desde cualquier lugar y los cupcakes llegaran a tu casa"
+        }
+    ]
+}

@@ -1,3 +1,44 @@
+# Proyecto
+
+Este proyecto fue creado en el marco del curso "React desde cero" de la plataforma de cursos online
+Edteam. El proyecto enmarca los principales usos de la librería React para dar origen a un sitio web
+que podría asemejarse a una tienda de Cupcakes. 
+
+## Temas tratados
+
+En el curso se vieron los principales temas de react, empezados desde la creación de un proyecto con la libreria, hasta el despliegue en Netifly, usando API "fakes" para simular los datos y React rutes para las rutas internas de la aplicación, Los temas aprendidos en el curso fueron: 
+
+* Componentes 
+    * Componentes representacionales
+    * Componentes de clase y tipo función
+    * Actualización de estados
+    * Componentes Switch y Route
+    * Componente Link
+    * Componente NavLink
+* Hooks 
+    * Hook UseState
+    * Hook UseEfect
+    * Hook UseRef
+    * Creación de Hooks
+* Uso de React Routes
+* Peticiones HTTP
+    * Peticiones HTTP con Fetch API
+    * Utilización de variables de entorno
+    * Peticiones HTTP con AXIOS
+* Manejo de errores
+* Build y Deploy
+
+## Como desplegar
+
+* Para desplegar el proyecto primero clona el repositorio con todas sus dependencias.
+* Inicia el proyecto con "yarn start" o "npm start".
+* En la terminal, vas a la carpeta api.
+* Ejecutas el comando json-server --watch db.json --port 3050 (Esto permitirá ejecutar el API y ver la información)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
